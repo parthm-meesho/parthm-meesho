@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parthm-meesho
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Computer Vision.
-- 🌱 I’m starting to learning Spark
+- 🌱 I’m starting to learn Spark
 - 📫 reach me out at parth.maheshwari@meesho.com
 
 <!---
